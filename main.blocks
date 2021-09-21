@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="/H,~y(S!I/kwd#?RaY)W" x="-53" y="-430"><statement name="HANDLER"><block type="device_show_leds" id="Zl,+sV69wkcAK*y`u8-K"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="controls_if" id="X/5h;V62jM[Zz?(}8MU;"><value name="IF0"><shadow type="logic_boolean" id="}z$/^IZ!CYp~)c9SocYm"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="k3yOg9}dyto{8J%2{v)z"><value name="text"><shadow type="text" id="fN-%k1;OY-0ou}BaU@Z{"><field name="TEXT">esta todo con calma </field></shadow></value><next><block type="device_pause" id="h`Se`l,#!R^S)TljR_R("><value name="pause"><shadow type="timePicker" id="H]:}o12vZ4-~aXR6piSV"><field name="ms">100</field></shadow></value><next><block type="device_while" id="Y$cg1o?kZ-~}WU!bz!O)"><value name="COND"><shadow type="logic_boolean" id="j#%d.AB6uX`QhI#v6Tct"><field name="BOOL">FALSE</field></shadow></value><statement name="DO"><block type="device_print_message" id=";alyW=n[~o(qskdlFCCI"><value name="text"><shadow type="text" id="p-`X.$,C(E6+#kP=D~as"><field name="TEXT">se te olbido regarme otra ves</field></shadow></value></block></statement></block></next></block></next></block></statement></block></next></block></statement></block><block type="device_forever" id="Rzx^8)_H0{_iTEDn$bk)" x="487" y="-392"/></xml>
